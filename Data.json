@@ -1,0 +1,138 @@
+myObj={
+    "dialog": [
+        {
+            "role": "pc",
+            "roleicon": "man",
+            "rolemsg": "Hi",
+            "sndfile": "",
+            "time": 2
+        },
+        {
+            "role": "studentR",
+            "roleicon": "male",
+            "rolemsg": "Introduce yourself; offer help",
+            "sndfile": "",
+            "time": 3
+        },
+        {
+            "role": "pcR",
+            "roleicon": "male",
+            "rolemsg": "",
+            "sndfile": "media/c1.mp3",
+            "time": 3
+        },
+        {
+            "role": "studentR",
+            "roleicon": "male",
+            "rolemsg": "Respond to problem; request preference: write/speak",
+            "sndfile": "",
+            "time": 3
+        },
+		{
+            "role": "pcR",
+            "roleicon": "female",
+            "rolemsg": "",
+            "sndfile": "media/c2.mp3",
+            "time": 2
+        },
+		{
+            "role": "studentR",
+            "roleicon": "male",
+            "rolemsg": "Respond to preference; request: name & a/c no",
+            "sndfile": "",
+            "time": 3
+        },
+		{
+            "role": "pcR",
+            "roleicon": "male",
+            "rolemsg": "339-29374-339",
+            "sndfile": "media/c3.mp3",
+            "time": 3
+        },
+        {
+            "role": "pc",
+            "roleicon": "male",
+            "rolemsg": "339-29374-339",
+            "sndfile": "media/beep.mp3",
+            "time": 3
+        },
+		{
+            "role": "studentR",
+            "roleicon": "female",
+            "rolemsg": "Thank for response; ask how know a/c hacked",
+            "sndfile": "",
+            "time": 2
+        },
+        {
+            "role": "pcR",
+            "roleicon": "male",
+            "rolemsg": "",
+            "sndfile": "media/c4.mp3",
+            "time": 3
+        },
+        {
+            "role": "studentR",
+            "roleicon": "male",
+            "rolemsg": "Show understanding, request: screenshot of messages",
+            "sndfile": "",
+            "time": 3
+        },
+        {
+            "role": "pcR",
+            "roleicon": "male",
+            "rolemsg": "",
+            "sndfile": "media/c5.mp3",
+            "time": 3
+        },
+        {
+            "role": "pc",
+            "roleicon": "pic",
+            "rolemsg": " media/pic1.jpg",
+            "sndfile": "",
+            "time": 3
+        },
+        {
+            "role": "pc",
+            "roleicon": "pic",
+            "rolemsg": "media/pic2.jpg",
+            "sndfile": "",
+            "time": 3
+        },
+        {
+            "role": "studentR",
+            "roleicon": "male",
+            "rolemsg": "Thank for action; apologise for promblem; offer: refund purchases by others",
+            "sndfile": "",
+            "time": 3
+        },
+        {
+            "role": "pcR",
+            "roleicon": "male",
+            "rolemsg": "",
+            "sndfile": "media/c6.mp3",
+            "time": 3
+        },
+        {
+            "role": "studentR",
+            "roleicon": "male",
+            "rolemsg": "Answer: 10 days - 2 weeks; offer more help",
+            "sndfile": "",
+            "time": 3
+        },
+        {
+            "role": "pcR",
+            "roleicon": "male",
+            "rolemsg": "",
+            "sndfile": "media/c7.mp3",
+            "time": 3
+        },
+        {
+            "role": "studentR",
+            "roleicon": "male",
+            "rolemsg": "End conversation politely",
+            "sndfile": "",
+            "time": 3
+        }
+        
+    ]
+}
